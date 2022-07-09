@@ -1,5 +1,3 @@
-# Veri_Yapilari_Algoritmalar
-patika_dev_sort-search_projeleri
 # patika.dev
 ## Veri Yapilari ve Algoritmalar
 ### PROJE 1 :Insertion Sort Projesi
