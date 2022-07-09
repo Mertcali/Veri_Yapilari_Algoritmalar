@@ -1,5 +1,5 @@
-# patika.dev
-## Veri Yapilari ve Algoritmalar
+# Veri Yapilari ve Algoritmalar
+## patika.dev
 ### PROJE 1 :Insertion Sort Projesi
 ### İsterler : [22,27,16,2,18,6] 
 > Insertion Sort
