@@ -13,9 +13,13 @@ Adım adım ilerler.
 `Adım 1`
 
 Kökümüz 8 olsun.
+
 7 Sayısı 8'den küçük olduğu için 8'in soluna bir dal oluşturulur ve oraya yazılır.
+
 7 Sayısı 8 den küçüktür : 8
+
 -------------------------- /
+
 ------------------------7    
 
 `Adım 2`
