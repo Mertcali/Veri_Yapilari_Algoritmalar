@@ -17,6 +17,7 @@ patika_dev_sort-search_projeleri
 
 ## Insertion Sort Açıklama:
 Verilen örüntüye ait en küçük elemanı buluyor ve en baştaki sayı ile yer değiştiriyor. Peki ya devamı? İkinci en küçük elemanı buluyor ve 2. sıra ile değiştiriyor. Baktın ki 2.sıradaki eleman en küçük hiç dokunma!!!. Hemen 3. sıraya geç. 4, 5 derken dizi bitti.
+
 Kaynak :[Patika](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort)
 
 ## İster 1:
