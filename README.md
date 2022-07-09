@@ -1,0 +1,2 @@
+# Veri_Yapilari_Algoritmalar
+patika_dev_sort-search_projeleri
